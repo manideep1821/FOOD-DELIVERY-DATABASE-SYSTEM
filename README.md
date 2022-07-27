@@ -1,4 +1,4 @@
-Food Delivery database system using Mysql
+Food Delivery database system using sql
 
 
 under development
